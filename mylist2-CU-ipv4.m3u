@@ -290,7 +290,7 @@ http://61.156.228.12:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 http://124.128.73.58:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="海峡卫视" tvg-id="1" tvg-logo="https://live.fanmingming.cn/tv/海峡卫视.png" group-title="卫视频道", 海峡卫视
 http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
-#EXTINF:-1 tvg-name="旅游卫视" tvg-id="旅游卫视" tvg-logo="https://live.fanmingming.cn/tv/旅游卫视.png" group-title="卫视频道", 旅游卫视
+#EXTINF:-1 tvg-name="旅游卫视" tvg-id="旅游卫视" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/旅游卫视.png" group-title="卫视频道", 旅游卫视
 http://111.61.236.247:9081/hls/50/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="卫视频道", 三沙卫视
 http://115.60.241.249:2000/rtp/225.1.4.234:1280
