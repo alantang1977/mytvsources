@@ -92,8 +92,6 @@ http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png" group-title="港澳台频道",民视新闻
 https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv13
-#EXTINF:-1 tvg-id="靖天资讯" tvg-name="靖天资讯" tvg-logo="https://live.fanmingming.cn/tv/靖天资讯台.png" group-title="港澳台频道",靖天资讯台
-http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv065
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/三立新闻.png" group-title="港澳台频道",三立新闻
 https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.cn/tv/中视新闻.png" group-title="港澳台频道",中视新闻
