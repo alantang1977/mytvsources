@@ -130,7 +130,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/NBCNewsNOW.png" group-title="国际新闻",NBC News Now
 https://lnc-nbc-news-now.tubi.video/master.m3u8
-#EXTINF:-1 tvg-logo="https://codeberg.org/alfredisme/TVLogo/src/branch/main/VOA.png" group-title="国际新闻",VOA 
+#EXTINF:-1 tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/VOA.png" group-title="国际新闻",VOA 
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-id="USATODAY.us" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/USATODAY.png" group-title="国际新闻",USA Today
 
