@@ -33,7 +33,7 @@ http://61.156.228.12:8154/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道", CCTV15
 http://61.156.228.12:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道", CCTV16
-
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道", CCTV17
 http://61.156.228.12:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视频道", CCTV4K超高清
@@ -99,31 +99,31 @@ https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6f
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.cn/tv/中视新闻.png" group-title="港澳台频道",中视新闻
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 #EXTINF:-1 tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/镜新闻.jpg" group-title="港澳台频道",镜新闻
-http://194.87.101.118/live.m3u8?c=10
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv075
 #EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://live.fanmingming.cn/tv/公视.png" group-title="港澳台频道",公视
 http://194.87.101.118/live.m3u8?c=8
 #EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://live.fanmingming.cn/tv/华视新闻.png" group-title="港澳台频道",华视新闻
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 #EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://live.fanmingming.cn/tv/非凡新闻.png" group-title="港澳台频道",非凡新闻
-rtmp://f13h.mine.nu/sat/tv581
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv010
 #EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/年代新闻.png" group-title="港澳台频道",年代新闻
 http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/ez2c4u/iptv/raw/master/logo/寰宇新闻台.png" group-title="港澳台频道",寰宇新闻台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://assets.livednow.com/logo/靖天資訊台.png" group-title="港澳台频道", 靖天資訊台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv065
 #EXTINF:-1 tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.cn/tv/半岛新闻.png" group-title="国际新闻",半岛新闻
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://gitee.com/ez2c4u/iptv/raw/master/logo/ChannelAsia.png" group-title="国际新闻",CNA News
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://live.fanmingming.cn/tv/CNN.png" group-title="国际新闻",CNN
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://gitee.com/ez2c4u/iptv/raw/master/logo/SkyNews.png" group-title="国际新闻",Sky News
-https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
-#EXTINF:-1 group-title="国际新闻" tvg-logo="https://gitee.com/ez2c4u/iptv/raw/master/logo/ABCAustralia.png" group-title="国际新闻",ABC News
-
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://gitee.com/ez2c4u/iptv/raw/master/logo/BloombergTV.png" group-title="国际新闻",Bloomberg 4K
 https://epg.pw/stream/62cbd4ebd22b4694f6e26929cc28201330c33670c43b8e12afce66f85fb1f725.m3u8
 #EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/BBCNEWS.png" group-title="国际新闻",BBC News (North America)
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/ABCNews.png" group-title="国际新闻",ABC News Australia
 
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/GBNews.png" group-title="国际新闻",GB News
@@ -170,6 +170,12 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/subirkumarpaul/My-i
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/PetClubTV.png" tvg-id="萌宠" group-title="萌宠",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 cuid="275" tvg-chno="283" tvg-name="Love Pets 🇺🇸" tvg-id="UK:.Love.Pets.en" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LovePets.webp" group-title="萌宠",Love Pets 🇺🇸
+https://bit.ly/3uVGkoY?profile=inspirationFreetv.m3u8
+#EXTINF:-1 cuid="271" tvg-chno="279" tvg-name="Tv + Pet 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_tVEa6RS.png" group-title="萌宠",Tv + Pet 🇧🇷
+https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 cuid="272" tvg-chno="280" tvg-name="Pet Lovers tv 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LovePets.webp" group-title="萌宠",Pet Lovers tv 🇧🇷
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 group-title="娱乐" tvg-logo="https://gitee.com/ez2c4u/iptv/raw/master/logo/MTV.png",MTV
 http://170.254.18.106/MTV/index.m3u8
 #EXTINF:-1 tvg-id="AXS TV NOW" tvg-name="AXS TV NOW" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/axsTVNow.png" group-title="娱乐",AXS TV NOW
@@ -287,7 +293,7 @@ http://171.110.42.239:8181/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-id="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="卫视频道", 大湾区卫视
 http://119.125.134.176:9901/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="纪录频道",北京纪实科教
-
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001910/1.m3u8
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="纪录频道",纪实人文
 rtp://225.1.2.25:5002
 #EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.cn/tv/全纪实.png" group-title="纪录频道",全纪实
@@ -298,18 +304,12 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000013/index.m3u8?
 rtp://225.1.1.149:5002
 #EXTINF:-1 tvg-name="黑莓电影" tvg-id="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="电影", 黑莓电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225743/2.m3u8
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-id="NewTV动作电影" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/NEWTV动作电影a.png" group-title="电影", NewTV动作电影
+#EXTINF:-1 tvg-name="NewTV动作电影" tvg-id="NewTV动作电影" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/NEWTV动作电影.png" group-title="电影", NewTV动作电影
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
-#EXTINF:-1 tvg-name="NewTV超级电影" tvg-id="NewTV超级电影" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/NEWTV超级电影a.png" group-title="电影", NewTV超级电影
+#EXTINF:-1 tvg-name="NewTV超级电影" tvg-id="NewTV超级电影" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/NEWTV超级电影.png" group-title="电影", NewTV超级电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-name="iHot亚洲影院" tvg-id="iHot亚洲影院" tvg-logo="https://epg.112114.xyz/logo/iHot亚洲影院.png" group-title="电影", iHot亚洲影院
-
-#EXTINF:-1 tvg-name="iHot欧美影院" tvg-id="iHot欧美影院" tvg-logo="https://epg.112114.xyz/logo/iHot欧美影院.png" group-title="电影", iHot欧美影院
-
 #EXTINF:-1 tvg-name="湖南电影" tvg-id="湖南电影" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/湖南电影.png" group-title="电影", 湖南电影
 http://42.48.197.146:8899/hls/59/index.m3u8
-#EXTINF:-1 tvg-name="精彩影视" tvg-id="精彩影视" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/精彩影视.png" group-title="电影", 精彩影视
-
 #EXTINF:-1 tvg-name="超级电影" tvg-id="超级电影" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/超级电影.png" group-title="电影", 超级电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/CHC影迷电影.png" group-title="电影", CHC影迷电影
