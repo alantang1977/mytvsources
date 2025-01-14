@@ -9,7 +9,7 @@ rtp://225.1.1.158:5002
 #EXTINF:-1 ,CCTV4
 rtp://225.1.1.150:5002
 #EXTINF:-1 ,CCTV5
-http://115.48.63.5:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+https://feiyang.vip-tptv.xyz/migu/641886683.m3u8?migutoken=8996eee6e77bf5829fd283d9a5fd5acb9ba68add4c7cc7de75af07301e27215edfe6a7e5075df51cb1d73888c90a1439c2ae54263d97db0e8cc59517927dce20bfc1d1cc87f18e5ca88bdf58a5
 #EXTINF:-1 ,CCTV5+
 rtp://225.1.1.121:5002
 #EXTINF:-1 ,CCTV6
