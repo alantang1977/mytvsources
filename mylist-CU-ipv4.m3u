@@ -9,9 +9,9 @@ http://113.195.13.61:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道", CCTV4
 http://58.243.224.244:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道", CCTV5
-http://113.195.13.61:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+http://wxdwxd.duckdns.org:35455/gaoma/cctv5.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道", CCTV5+
-http://tv.20191209.xyz:37377/migu/641886773.m3u8?migutoken=dfc218ce4c1ff00475c0aef03e0b883bf8a277b36671d5ca1eb7cc5f7ce7919d01ee050351170891d6e103aa7adea25827c13c901ccf6cdf4a8a370e7fd90c8b198dcb1e8814bbf2ed4fb0c8
+http://wxdwxd.duckdns.org:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道", CCTV6
 http://113.195.13.61:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道", CCTV7
