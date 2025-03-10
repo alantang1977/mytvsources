@@ -11,7 +11,7 @@
  CCTV10,http://58.243.224.244:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
  CCTV11,http://58.243.224.244:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
  CCTV12,http://58.243.224.244:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
- CCTV13,http://101.66.198.2:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+ CCTV13,http://wxdwxd.duckdns.org:35455/gaoma/cctv13.m3u8
  CCTV14,http://58.243.224.244:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
  CCTV15,http://58.243.224.244:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
  CCTV16,http://113.195.13.61:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
