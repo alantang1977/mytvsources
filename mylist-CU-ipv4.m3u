@@ -208,14 +208,14 @@ https://iptv.vip-tptv.xyz/tv.php?id=5
 http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-id="Fight Network" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/FightNetwork.png" group-title="体育频道",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",1号场地
-http://play.cbalive.weibisai.com/live/3836516367004061_AiHD.m3u8?txSecret=feb8d9fa4369e5c4eb56ccc463323645&txTime=67CE9C00
-#EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",日本赛2号
-http://play.cbalive.weibisai.com/live/3779448148561061_AiHD.m3u8?txSecret=8f67123284cab39750d0f2b7e8b7e1cc&txTime=676E5E80
-#EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",日本赛3号
-http://play.cbalive.weibisai.com/live/3738205416028061_AiHD.m3u8?txSecret=5d3007e91c1c87632e5653a853960a10&txTime=6737D270
-#EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",日本赛4号
-http://play.cbalive.weibisai.com/live/3738204362677061_AiHD.m3u8?txSecret=bbb70d7d9704d6be30ebe94e8757a147&txTime=673672E0
+#EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",全英1号场地
+http://play.cbalive.weibisai.com/live/3842540767674061_AiHD.m3u8?txSecret=3dc611b8fd6a0b2a96118f6b15364c8a&txTime=67D29080
+#EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",全英2号
+http://play.cbalive.weibisai.com/live/3842540941900061_AiHD.m3u8?txSecret=73b85fa6790bbe9bcd1d988a692a6082&txTime=67D29080
+#EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",全英3号
+http://play.cbalive.weibisai.com/live/3842541150576061_AiHD.m3u8?txSecret=b85eda6c0caeac73cc52d67cfd9ebdcc&txTime=67D29080
+#EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",全英4号
+http://play.cbalive.weibisai.com/live/3842541362247061_AiHD.m3u8?txSecret=521f1d68e7d5ad026ff4a380f6ef4114&txTime=67D29080
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道", 北京卫视
 http://58.243.224.244:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道", 东方卫视
