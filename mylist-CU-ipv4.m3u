@@ -209,13 +209,13 @@ http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-id="Fight Network" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/FightNetwork.png" group-title="体育频道",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",全英1号场地
-http://play.cbalive.weibisai.com/live/3842540767674061_AiHD.m3u8?txSecret=3dc611b8fd6a0b2a96118f6b15364c8a&txTime=67D29080
+http://play.cbalive.weibisai.com/live/3842541778987061_AiHD.m3u8?txSecret=10d059aeebaa04fe881ba021722a06e4&txTime=67D3E200
 #EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",全英2号
-http://play.cbalive.weibisai.com/live/3842540941900061_AiHD.m3u8?txSecret=73b85fa6790bbe9bcd1d988a692a6082&txTime=67D29080
+http://play.cbalive.weibisai.com/live/3842542081704061_AiHD.m3u8?txSecret=8d3ba4edfda208fe5591edbad4aa7e4a&txTime=67D3E200
 #EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",全英3号
-http://play.cbalive.weibisai.com/live/3842541150576061_AiHD.m3u8?txSecret=b85eda6c0caeac73cc52d67cfd9ebdcc&txTime=67D29080
+http://play.cbalive.weibisai.com/live/3842542331068061_AiHD.m3u8?txSecret=ac9052a4b202985dc913dcdd7cc0abb2&txTime=67D3E200
 #EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",全英4号
-http://play.cbalive.weibisai.com/live/3842541362247061_AiHD.m3u8?txSecret=521f1d68e7d5ad026ff4a380f6ef4114&txTime=67D29080
+http://play.cbalive.weibisai.com/live/3842542502868061_AiHD.m3u8?txSecret=2a98bbfd26903b64974cf1dde16d846c&txTime=67D3E200
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道", 北京卫视
 http://58.243.224.244:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道", 东方卫视
