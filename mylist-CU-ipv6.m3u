@@ -206,7 +206,7 @@ http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-id="Fight Network" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/FightNetwork.png" group-title="体育频道",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",全英1号
-http://play.cbalive.weibisai.com/live/3842544178923061_AiHD.m3u8?txSecret=bfc8a93afa18fa28325176ec52d96389&txTime=67D7E490
+http://1303027007.vod2.myqcloud.com/6ab54cb9vodcq1303027007/c863fecd1397757907515922018/playlist_eof.m3u8?t=67d7d58b&exper=&rlimit=3&us=18750627&sign=59e78246a853ad1d589cc20faa9a0ccd
 #EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",日本赛2号
 http://play.cbalive.weibisai.com/live/3779448148561061_AiHD.m3u8?txSecret=8f67123284cab39750d0f2b7e8b7e1cc&txTime=676E5E80
 #EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/alfredisme/TVLogo/raw/branch/main/中国羽协.png" group-title="体育频道",日本赛3号
